@@ -1,5 +1,5 @@
 
-const bookingModel = require("../Models/Booking.model");
+const bookingModel = require("../Models/booking.model");
 const paymentModel = require("../Models/payment.model");
 const { bookingStatus } = require("../Utils/constants");
 

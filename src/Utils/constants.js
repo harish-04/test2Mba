@@ -22,11 +22,13 @@ const bookingStatus = {
     failed:"FAILED"
 }
 
-const paymentStatus = {
-    pending:"PENDING",
-    success:"SUCCESS",
-    failed:"FAILED"
+const paymentStatus ={
+    pending: "PENDING",
+    success : "SUCCESS",
+    failed : "FAILED",
 }
+
+
 
 module.exports ={
     userTypes, 
